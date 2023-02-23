@@ -1,0 +1,511 @@
+#logo{
+    position: relative;
+    top: 15px;
+    left: 15px;
+}
+
+#dash{
+    position: absolute;
+    width: 103px;
+    height: 12px;
+    left: 70px;
+    top: 135px;
+    color: whitesmoke;
+    align-items: center;
+    cursor: pointer;
+}
+
+#shape{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 140px;
+    cursor: default;
+}
+
+#box1{
+    position: absolute;
+    width: 216px;
+    height: 46px;
+    background: #4B0ACE;
+    top: 129px;
+    border-radius: 15px;
+    cursor: default;
+    left: 10px;
+}
+
+#Gamestore{
+    position: absolute;
+    left: 70px;
+    top: 200px;
+    color :#787686;
+    cursor: pointer;
+
+}
+
+#iconn{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 205px;
+    cursor: default;
+}
+
+#Live-Stream-TV{
+    position: absolute;
+    left: 65px;
+    top: 260px;
+    color :#787686;
+    cursor: pointer;
+
+}
+
+#iconn2{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 265px;
+    cursor: default;
+    
+}
+
+#Team-Member{
+    position: absolute;
+    left: 65px;
+    top: 325px;
+    color :#787686;
+    cursor: pointer;
+
+}
+
+#iconn3{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 330px;
+    cursor: default;
+
+}
+#Badges{
+    position: absolute;
+    left: 65px;
+    top: 385px;
+    color :#787686;
+    cursor: pointer;
+    
+}
+
+#iconn4{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 390px;
+    cursor: default;
+
+
+}
+
+#My-Library{
+    position: absolute;
+    left: 65px;
+    top: 440px;
+    color :#787686;
+    cursor: pointer;
+    
+
+}
+
+#iconn5{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 445px;
+    cursor: default;
+
+}
+
+#Thropies{
+    position: absolute;
+    left: 65px;
+    top: 507px;
+    color :#787686;
+    cursor: pointer;
+
+}
+
+#iconn6{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 510px;
+    cursor: default;
+
+}
+
+#Log-out{
+    position: absolute;
+    left: 65px;
+    top: 680px;
+    color :#4B0ACE;
+    cursor: pointer;
+    font-style: normal;
+}
+
+#iconn7{
+    position: absolute;
+    width: 20px;
+    height: 20px;
+    left: 35px;
+    top: 686px;
+    cursor: default;
+}
+
+#search{
+    background-color: rgb(244, 232, 232);
+    height: 52px;
+    width: 610px;
+    position: absolute;
+    left: 285px;
+    top: 24px;
+    border-radius: 15px;
+}
+
+#stext{
+    color: #bcbece;
+    font-weight: 400;
+    font-size: 14px;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+#iconn8{
+    position: absolute;
+    left: 560px;
+    top: 20px;
+}
+
+#crack{
+    background: #4B0ACE;
+    position: absolute;
+    width: 723px;
+    height: 271px;
+    left: 285px;
+    top: 117px;
+    border-radius: 20px;
+}
+
+#Assests{
+    position: absolute;
+    color: aliceblue;
+    top: 20px;
+    left: 20px;
+    font-size: 13px
+}
+
+#Free{
+    position: absolute;
+    color: aliceblue;
+    top: 37px;
+    left: 20px;
+    font-size: 13px
+}
+
+#High{
+    position: absolute;
+    color: aliceblue;
+    top: 60px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#game{
+    position: absolute;
+    color: aliceblue;
+    top: 85px;
+    left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#iconn9{
+    position: absolute;
+    top: 10px;
+    left:450px;
+}
+
+#searchh{
+    background-color: #FFA910;
+    height: 50px;
+    width: 188px;
+    position: absolute;
+    left: 20px;
+    top: 160px;
+    border-radius: 15px;
+}
+
+#stextt{
+    color: #15151c;
+    font-size: 14px;
+    position: absolute;
+    left: 50px;
+    top: 15px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#icon10{
+    position: absolute;
+    top: 17px;
+    left: 25px;
+    cursor: default;
+}
+
+#popular-Games{
+    position: absolute;
+    top:400px;
+    left:300px;
+    font-weight:bold;
+}
+
+#iconn11{
+    position: absolute;
+    top: 410px;
+    left: 420px;
+    cursor: default;
+
+}
+
+#iconn12{
+    position: absolute;
+    top: 450px;
+    left: 300px;
+    cursor: default;
+
+}
+
+#Nocture{
+    position: absolute;
+    top: 580px;
+    left:300px;
+    color: whitesmoke;
+
+}
+
+#Night{
+    position: absolute;
+    top: 600px;
+    left:300px;
+    font-size: 12px;
+    color: white;
+
+}
+
+#operator{
+    position: absolute;
+    top: 620px;
+    left:300px;
+    font-size: 12px;
+    color: white;
+
+
+}
+
+#cont1{
+    background-color: #301C57;
+    width: 225px;
+    height: 255px;
+    position: absolute;
+    left: 294px;
+    top: 430px;
+    border-radius: 15px;
+}
+
+#contb{
+    background-color: blue;
+    width: 20x;
+    height: 30px;
+    position: absolute;
+    left: 420px;
+    top: 650px;
+    border-radius: 15px;
+    font-weight: bold;
+
+}
+#two{
+    position: absolute;
+    top: 580px;
+    left:417px;
+    color:white;
+}
+
+#iconn13{
+    position: absolute;
+    left: 400px;
+    top: 588px;
+    background: grey;
+
+ } 
+ 
+#one{
+    position: absolute;
+    top: 580px;
+    left:460px;
+    color:white;
+
+ }
+
+ #iconn14{
+    position: absolute;
+    left: 450px;
+    top: 588px;
+    background: grey;
+
+ }
+ 
+ 
+#iconn15{
+    background-color: grey;
+    position: absolute;
+    left: 300px;
+    top: 660px;
+    height: 10px;
+    width: 10px ;
+
+}
+
+#iconn16{
+    background-color: red;
+    position: absolute;
+    left: 320px;
+    top: 660px;
+    height: 10px;
+    width: 10px ;
+
+
+}
+
+#iconn17{
+    background-color:gray;
+    position: absolute;
+    left: 340px;
+    top: 660px;
+    height: 10px;
+    width: 10px ;
+
+}
+
+#cont2{
+    background-color: #301C57;
+    height: 255px;
+    width: 255px;
+    position: absolute;
+    left: 540px;
+    top: 430px;
+    border-radius: 15px;
+}
+
+
+#icon12{
+    position: absolute;
+    top: 25px;
+    left: 15px;
+    cursor: default;
+}
+
+#Keeper{
+    position: absolute;
+    top: 160px;
+    left:15px;
+    color: whitesmoke;
+}
+
+#icon13{
+    position: absolute;
+    left: 134px;
+    top: 170px;
+    background: grey;
+}
+
+#icon14{
+    position: absolute;
+    left: 190px;
+    top: 170px;
+    background: grey;
+}
+
+#twoo{
+    position: absolute;
+    top: 160px;
+    left:150px;
+    color:white;
+}
+
+#onee{
+    position: absolute;
+    top: 160px;
+    left:200px;
+    color:white;
+}
+
+#Nightt{
+    position: absolute;
+    top: 190px;
+    left: 15px;
+    font-size: 12px;
+    color: white;
+}
+
+#operatorr{
+    position: absolute;
+    top: 210px;
+    left:15px;
+    font-size: 12px;
+    color: white;
+}
+
+#contbb{
+    background-color: blue;
+    width: 20x;
+    height: 30px;
+    position: absolute;
+    left: 150px;
+    top: 220px;
+    border-radius: 15px;
+    font-weight: bold;
+}
+
+#icon15{
+    background-color: grey;
+    position: absolute;
+    left: 15px;
+    top: 232px;
+    height: 10px;
+    width: 10px ;
+}
+
+#icon16{
+    background-color: red;
+    position: absolute;
+    left: 35px;
+    top: 232px;
+    height: 10px;
+    width: 10px ;
+}
+
+#icon17{
+    background-color:gray;
+    position: absolute;
+    left: 55px;
+    top: 232px;
+    height: 10px;
+    width: 10px ;
+}
